@@ -123,5 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-students.csv
+csv-students.csv
 .vscode
