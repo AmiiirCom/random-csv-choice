@@ -1,3 +1,3 @@
 import func
 
-choice = func.students.all()
+choice = func.students.alphabetize()
